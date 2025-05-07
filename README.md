@@ -1,2 +1,2 @@
 # Rodney_Stock_WindowsFormApp
-BEM (Bilişim Eğitim Merkezi) Kursunun 2. Yazılım Kursunun Bitirime Projesidir.
+BEM (Bilişim Eğitim Merkezi) Yazılım Kursunun 2.Eğitimin Bitirme Projesidir. Bu Programda Windows Form ile Stok Ekleme, Barkod Okuma ve XML ile Veri Alıp Gönderme İçerir. Kısacası Stok Programıdır. Bu Projeyi Yapmak da Azıcık  Zorlanmış Olabilirim Ama Yapabildiğim Kadarını Yaptım. Teknik Hatalar Çıkabilir. Onun İçin Kusura Bakmayın. Umarım Projemi Beğenirsiniz. :) :) :)
